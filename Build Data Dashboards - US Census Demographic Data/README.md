@@ -12,6 +12,14 @@ Think about how best to contrast this data to show an interesting finding. You c
 3- **You can also come up with your own question!**    
 As you work with the data, come up with a question you're curious about and can be answered from the data. Build a dashboard or story to answer your question and lead viewers to that answer.  
 
+### Submission
+Ready to submit your project? Click on the "Submit Project" button or go back to your Udacity Home and click on the project, then follow the instructions to submit! Make sure you include the following files and information:  
+- A PDF or Markdown report that includes the following sections:  
+  - Links to your dashboards or story
+You must submit url links for each of your visuals from Tableau Public. If you need a reminder on how to save to Tableau Public, please see the next concept.
+  - Summary: brief description of the visualization and the main story or findings conveyed
+  - Design: explain any design choices you made including changes to the visualization after collecting feedback
+  - Resources: list of Web sites, books, forums, blog posts, GitHub repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
 
 ### Supporting Materials
 This is the Kaggle dataset for the US Census Demographic Data [US Census Demographic Data](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data).
