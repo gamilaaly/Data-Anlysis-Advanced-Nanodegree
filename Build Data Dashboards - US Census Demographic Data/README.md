@@ -13,7 +13,6 @@ Think about how best to contrast this data to show an interesting finding. You c
 As you work with the data, come up with a question you're curious about and can be answered from the data. Build a dashboard or story to answer your question and lead viewers to that answer.  
 
 ### Submission
-Ready to submit your project? Click on the "Submit Project" button or go back to your Udacity Home and click on the project, then follow the instructions to submit! Make sure you include the following files and information:  
 - A PDF or Markdown report that includes the following sections:  
   - Links to your dashboards or story
 You must submit url links for each of your visuals from Tableau Public. If you need a reminder on how to save to Tableau Public, please see the next concept.
